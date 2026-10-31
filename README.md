@@ -3,7 +3,7 @@
 ### ▶ [**Play it now**](https://tiny-planet-action-rpg.vercel.app/)
 
 [![Play on Vercel](https://img.shields.io/badge/▶_Play-Vercel-000000?style=for-the-badge&logo=vercel)](https://tiny-planet-action-rpg.vercel.app/)
-[![Play on GitHub Pages](https://img.shields.io/badge/▶_Play-GitHub_Pages-222222?style=for-the-badge&logo=github)](https://jeevan2410.github.io/Tiny-Planet-Action-RPG/)
+[![Play on GitHub Pages](https://img.shields.io/badge/▶_Play-GitHub_Pages-222222?style=for-the-badge&logo=github)](https://3t3rn4tu5.github.io/Tiny-Planet-Action-RPG/)
 [![Built with Three.js](https://img.shields.io/badge/Three.js-r186-049EF4?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
